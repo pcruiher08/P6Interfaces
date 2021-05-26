@@ -1,0 +1,2 @@
+C:\Users\lsalgado\Desktop\GenIO\Debug\GenIO.exe
+C:\Users\lsalgado\Desktop\GenIO\Debug\GenIO.pdb

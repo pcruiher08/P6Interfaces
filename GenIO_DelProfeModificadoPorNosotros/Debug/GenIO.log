@@ -1,0 +1,8 @@
+﻿  Codigo_HID_App.c
+d:\downloads\practica6_archivosapoyo\pra╠üctica6\genio_versio╠ünxtreme\codigo_hid_app.c(237): warning C4477: 'scanf_s' : la cadena de formato '%d' requiere un argumento de tipo 'int *', pero el argumento variádico 1 tiene el tipo 'unsigned char *'
+  d:\downloads\practica6_archivosapoyo\pra╠üctica6\genio_versio╠ünxtreme\codigo_hid_app.c(237): note: considere el uso de ' %hhd' en la cadena de formato
+d:\downloads\practica6_archivosapoyo\pra╠üctica6\genio_versio╠ünxtreme\codigo_hid_app.c(253): warning C4477: 'scanf_s' : la cadena de formato '%d' requiere un argumento de tipo 'int *', pero el argumento variádico 1 tiene el tipo 'unsigned char *'
+  d:\downloads\practica6_archivosapoyo\pra╠üctica6\genio_versio╠ünxtreme\codigo_hid_app.c(253): note: considere el uso de ' %hhd' en la cadena de formato
+d:\downloads\practica6_archivosapoyo\pra╠üctica6\genio_versio╠ünxtreme\codigo_hid_app.c(268): warning C4477: 'scanf_s' : la cadena de formato '%d' requiere un argumento de tipo 'int *', pero el argumento variádico 1 tiene el tipo 'unsigned char *'
+  d:\downloads\practica6_archivosapoyo\pra╠üctica6\genio_versio╠ünxtreme\codigo_hid_app.c(268): note: considere el uso de ' %hhd' en la cadena de formato
+  GenIO.vcxproj -> D:\Downloads\Practica6_ArchivosApoyo\Pra╠üctica6\GenIO_versio╠ünXtreme\Debug\GenIO.exe
